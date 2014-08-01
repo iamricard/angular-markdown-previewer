@@ -1,0 +1,22 @@
+{
+  "name": "markdown-writer",
+  "version": "0.0.0",
+  "authors": [
+    "Ricard Sole <ricard.solecasas@gmail.com>"
+  ],
+  "description": "angular demo app",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.21",
+    "showdown": "~0.3.1",
+    "angular-route": "~1.2.21"
+  }
+}
